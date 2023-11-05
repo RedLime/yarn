@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_4493 net/minecraft/GlStateManager
+CLASS net/minecraft/class_4493 com/mojang/blaze3d/platform/GlStateManager
 	FIELD field_20466 MATRIX_BUFFER Ljava/nio/FloatBuffer;
 	FIELD field_20468 ALPHA_TEST Lnet/minecraft/class_4493$class_1016;
 	FIELD field_20469 LIGHTING Lnet/minecraft/class_4493$class_1018;
@@ -20,6 +20,7 @@ CLASS net/minecraft/class_4493 net/minecraft/GlStateManager
 	FIELD field_20487 COLOR Lnet/minecraft/class_4493$class_1020;
 	FIELD field_20488 fboMode Lnet/minecraft/class_4493$class_1010;
 	FIELD field_20771 colorBuffer Ljava/nio/FloatBuffer;
+	FIELD field_25251 fblBlitMode Lnet/minecraft/class_4493$class_5343;
 	METHOD method_21906 enableColorLogicOp ()V
 	METHOD method_21907 matrixMode (I)V
 		ARG 0 mode
