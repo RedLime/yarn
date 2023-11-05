@@ -295,6 +295,7 @@ CLASS net/minecraft/class_310 net/minecraft/client/MinecraftClient
 		ARG 5 safeMode
 	METHOD method_29611 isFabulousGraphicsOrBetter ()Z
 	METHOD method_29970 setScreenAndRender (Lnet/minecraft/class_437;)V
+	METHOD method_30049 getVideoWarningManager ()Lnet/minecraft/class_5407;
 	CLASS class_5366 WorldLoadAction
 	CLASS class_5367 IntegratedResourceManager
 		FIELD field_25439 resourcePackManager Lnet/minecraft/class_3283;

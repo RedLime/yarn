@@ -12,8 +12,9 @@ CLASS net/minecraft/class_413 net/minecraft/client/gui/screen/CustomizeFlatLevel
 		ARG 3 config
 	METHOD method_20093 (Lnet/minecraft/class_4185;)V
 	METHOD method_25394 (Lnet/minecraft/class_4587;IIF)V
-	METHOD method_29054 (Lnet/minecraft/class_3232;)V
+	METHOD method_29054 setConfig (Lnet/minecraft/class_3232;)V
 		ARG 1 config
+	METHOD method_29055 getConfig ()Lnet/minecraft/class_3232;
 	CLASS class_4192 SuperflatLayersListWidget
 		METHOD method_19372 ()V
 		METHOD method_20094 (Lnet/minecraft/class_413$class_4192$class_4193;)V
