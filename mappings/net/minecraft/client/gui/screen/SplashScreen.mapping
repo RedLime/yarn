@@ -23,6 +23,4 @@ CLASS net/minecraft/class_425 net/minecraft/client/gui/screen/SplashScreen
 		ARG 6 color
 	METHOD method_18819 init (Lnet/minecraft/class_310;)V
 		ARG 0 client
-	METHOD method_25394 (Lnet/minecraft/class_4587;IIF)V
 	CLASS class_4070 LogoTexture
-		METHOD method_18153 (Lnet/minecraft/class_3300;)Lnet/minecraft/class_1049$class_4006;

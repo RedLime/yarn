@@ -9,4 +9,3 @@ CLASS net/minecraft/class_3928 net/minecraft/client/gui/screen/LevelLoadingScree
 	METHOD method_17538 drawChunkMap (Lnet/minecraft/class_4587;Lnet/minecraft/class_3953;IIII)V
 		ARG 0 matrices
 		ARG 1 progress
-	METHOD method_25394 (Lnet/minecraft/class_4587;IIF)V
