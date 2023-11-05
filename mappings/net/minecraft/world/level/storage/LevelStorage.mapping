@@ -46,3 +46,4 @@ CLASS net/minecraft/class_32 net/minecraft/world/level/storage/LevelStorage
 			ARG 1 key
 		METHOD method_27428 (Lnet/minecraft/class_5218;)Ljava/nio/file/Path;
 			ARG 1 path
+		METHOD method_29585 getDataPackSettings ()Lnet/minecraft/class_5359;

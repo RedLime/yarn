@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_4493 com/mojang/blaze3d/platform/GlStateManager
+CLASS net/minecraft/class_4493 net/minecraft/GlStateManager
 	FIELD field_20466 MATRIX_BUFFER Ljava/nio/FloatBuffer;
 	FIELD field_20468 ALPHA_TEST Lnet/minecraft/class_4493$class_1016;
 	FIELD field_20469 LIGHTING Lnet/minecraft/class_4493$class_1018;
@@ -558,3 +558,7 @@ CLASS net/minecraft/class_4493 com/mojang/blaze3d/platform/GlStateManager
 		FIELD field_5172 x I
 	CLASS class_4534 DstFactor
 	CLASS class_4535 SrcFactor
+		FIELD field_22545 value I
+		METHOD <init> (Ljava/lang/String;II)V
+			ARG 3 value
+	CLASS class_5343 FBOBlitMode
